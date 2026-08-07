@@ -1,0 +1,8 @@
+{
+  "id": "vndb-wasm",
+  "name": "VNDB",
+  "version": "0.1.0",
+  "kind": "metadata",
+  "entry": "vndb_metadata_wasm_plugin.wasm",
+  "httpScopes": ["api.vndb.org"]
+}
